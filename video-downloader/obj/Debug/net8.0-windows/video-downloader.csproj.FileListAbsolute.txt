@@ -1,0 +1,16 @@
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\bin\Debug\net8.0-windows\video-downloader.exe
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\bin\Debug\net8.0-windows\video-downloader.deps.json
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\bin\Debug\net8.0-windows\video-downloader.runtimeconfig.json
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\bin\Debug\net8.0-windows\video-downloader.dll
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\bin\Debug\net8.0-windows\video-downloader.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video_downloader.Form1.resources
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.csproj.GenerateResource.cache
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.AssemblyInfoInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.AssemblyInfo.cs
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.dll
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\refint\video-downloader.dll
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\video-downloader.genruntimeconfig.cache
+C:\Users\Gabriel\OneDrive\Documentos\Treinamento\video-downloader\video-downloader\obj\Debug\net8.0-windows\ref\video-downloader.dll
